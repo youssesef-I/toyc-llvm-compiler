@@ -1,0 +1,5 @@
+toy
+*.o
+*.out
+*.ll
+.DS_Store
